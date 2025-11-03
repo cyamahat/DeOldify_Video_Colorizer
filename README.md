@@ -1,2 +1,2 @@
-# DeOldify_Video_Colorizer
+# DeOldify Video Colorizer
 DeOldify (Video Colorizer)
