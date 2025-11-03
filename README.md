@@ -2,7 +2,7 @@
 
 *Bring black-and-white videos back to life with DeOldify — right in Google Colab!*
 
-This notebook is an updated and streamlined version of the original DeOldify video colorization Colab notebook (archived).
+This notebook is an updated and streamlined version of the original DeOldify video colorization Colab notebook ([archived](https://github.com/jantic/DeOldify)).
 
 ✅ Successfully tested in November 2025.
 
