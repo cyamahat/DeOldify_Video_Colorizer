@@ -9,7 +9,7 @@ This notebook is an updated and streamlined version of the original DeOldify vid
 Simply click the badge below to open the notebook in Google Colab (you’ll need a Google account).
 
 It will automatically generate a colorized version of the sample video:
-🎞️ [Lee De Forest in his laboratory (1949)](https://raw.githubusercontent.com/cyamahat/DeOldify_Video_Colorizer/refs/heads/main/Lee_De_Forest_(1939).mp4)
+🎞️ [Lee De Forest in his laboratory (1939)](https://raw.githubusercontent.com/cyamahat/DeOldify_Video_Colorizer/refs/heads/main/Lee_De_Forest_(1939).mp4)
 
 
 
