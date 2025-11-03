@@ -11,7 +11,7 @@ Simply click the badge below to open the notebook in Google Colab (you’ll need
 It will automatically generate a colorized version of the sample video:
 🎞️ [Lee De Forest in his laboratory (1939)](https://raw.githubusercontent.com/cyamahat/DeOldify_Video_Colorizer/refs/heads/main/Lee_De_Forest_(1939).mp4)
 
-
+Once you have successfully colorized this sample video, you can try with other vintage videos (for example, by providing a link to a short YouTube video).
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/cyamahat/DeOldify_Video_Colorizer/blob/main/DeOldify_Video_Colorizer_Colab.ipynb)
