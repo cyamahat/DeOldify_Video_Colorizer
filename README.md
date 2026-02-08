@@ -19,4 +19,4 @@ https://colab.research.google.com/github/cyamahat/DeOldify_Video_Colorizer/blob/
 
 ## Alternative
 If a Google Colab GPU is unavailable, you can import the *.ipynb* file into a Kaggle Notebook:
-👉 (https://kaggle.com/code)[https://kaggle.com/code]
+👉 [https://kaggle.com/code](https://kaggle.com/code)
