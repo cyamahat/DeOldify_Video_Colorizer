@@ -15,3 +15,8 @@ Once you have successfully colorized this sample video, you can try with other v
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/cyamahat/DeOldify_Video_Colorizer/blob/main/DeOldify_Video_Colorizer_Colab.ipynb)
+
+
+## Alternative
+If a Google Colab GPU is unavailable, you can import the *.ipynb* file into a Kaggle Notebook:
+👉 (https://kaggle.com/code)[https://kaggle.com/code]
